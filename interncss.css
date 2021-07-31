@@ -98,7 +98,7 @@ body {
     color:black;
   }
   
-  /* GOOGLE AREA */
+  
   .google #google_logo {
     text-align: center;
     display: block;
@@ -123,10 +123,7 @@ body {
     padding: 0 8px;
   }
   
-  /*#form-search:hover {
-    border-color: #e4e4e4;
-    padding-top: 0;
-  }*/
+  
   
   
   .buttons {
@@ -140,11 +137,11 @@ body {
 
   }
   
-  /* FOOTER */
+  
   footer  {
     background:black;
     border-top: solid 2px black;
-  /*   position: fixed; */
+  
     bottom: 0;
     padding-bottom: 0;
     width: 100%;
@@ -171,7 +168,7 @@ body {
     float: right;
   }
   
-  /* MEDIA QUERIES */
+  
   
   @media screen and (max-width: 400px) {
    
@@ -237,8 +234,7 @@ body {
    }
     
    footer {
-  /*    bottom: 0;
-     postion: absolute; */
+
      position:absolute;
      bottom:0;
      width:100%;
